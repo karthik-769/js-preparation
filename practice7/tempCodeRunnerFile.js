@@ -1,0 +1,1 @@
+newarray.push(element**2)
